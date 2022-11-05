@@ -1,2 +1,2 @@
-# nlwcopa
+# nlwcopamobile
 NLW Copa da Rocketseat
